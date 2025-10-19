@@ -12,3 +12,5 @@
 * Sound
 * Camera
 * Microphone
+# Preview
+![](/images/微信图片_20251019114338_80_276.png)
