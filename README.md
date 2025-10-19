@@ -1,6 +1,6 @@
 # OpenCore Efi file for Honor MagicBook 14
 [正体字](/REDME_CN.md)
-## Whtat's works?
+## Whtat's working?
 * Keyboard & Keyboard light
 * Integrated Graphics（You might use the UniversalAMDFormBrowser tool to adjust the video memory)
 * USB (Both USB-A & USB-C)
@@ -8,7 +8,7 @@
 * Brightness Control
 * Frequency Conversion
 * WiFi & Bluetooth (Disassemble the device and replace the wireless network card with an Intel WiFi 6 AX200.)
-## What's not works (To Be Fixed)
+## What's not working (To Be Fixed)
 * Touchpad
 * Sound
 * Camera
