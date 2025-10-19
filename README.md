@@ -1,4 +1,5 @@
 # OpenCore Efi file for Honor MagicBook 14
+[正体字](/REDME_CN.md)
 ## Whtat's works?
 * Keyboard & Keyboard light
 * Integrated Graphics（You might use the UniversalAMDFormBrowser tool to adjust the video memory)
